@@ -33,7 +33,7 @@ Right now I work as a Full Stack Website Developer at Cubex Solutions, take on f
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [Accounting SaaS platform](https://github.com/arbaz-webdev/ledger-accounting-platform) | Multi tenant, double entry accounting SaaS with separate portals for the platform owner, accounting firms, accountants and their client businesses. [Live demo](https://ledger-accounting-platform.vercel.app) | Next.js, TypeScript, PostgreSQL, Drizzle, Tailwind |
-| [WorkHub](https://workhub-staging.onrender.com) | My own SaaS: an all in one workspace for remote and hybrid teams with attendance, project boards, CRM and team chat. In active development, source code private. [Live preview](https://workhub-staging.onrender.com) | Next.js, NestJS, PostgreSQL, Turborepo |
+| [WorkHub](https://github.com/arbaz-webdev/workhub-showcase) | My own SaaS: an all in one workspace for remote and hybrid teams with attendance, project boards, CRM and team chat. In active development, source code private. [Live preview](https://workhub-staging.onrender.com) | Next.js, NestJS, PostgreSQL, Turborepo |
 | [Business consultant portfolio](https://github.com/arbaz-webdev/shehzad-portfolio) | Fast single page portfolio for a business developer, with dark and light themes and content editable from one file. [Live site](https://arbaz-webdev.github.io/shehzad-portfolio/) | HTML, CSS, JavaScript, GitHub Pages |
 | [React portfolio website](https://github.com/arbaz-webdev/react-portfolio-website) | My earlier personal portfolio with services, experience and portfolio pages | React, TypeScript, Vite, Tailwind, shadcn/ui |
 
